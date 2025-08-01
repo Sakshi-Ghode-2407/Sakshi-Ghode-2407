@@ -26,4 +26,4 @@ Welcome to my GitHub profile!
 ## Skills
 - Programming Languages: [cpp]
 ----
-  Thanks for visiting! :) 
+  Thanks for visiting :) 
