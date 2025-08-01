@@ -14,3 +14,22 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+# Hi, I'm Sakshi Ghode 👋
+
+Welcome to my GitHub profile!
+
+## About Me
+- 🔭 I am a Software Engineer
+- 🎓 Currently a B.Tech CSE student at DYPDPU
+- 🌱 Passionate about coding, learning new technologies, and software development
+
+## Skills
+- Programming Languages: [Add your languages here]
+- Technologies & Tools: [Add tools/frameworks here]
+
+## Connect with me
+- LinkedIn: [Add your LinkedIn URL]
+- Twitter: [Add your Twitter URL]
+- Email: [Add your email]
+
+  Thanks for visiting! :) 
